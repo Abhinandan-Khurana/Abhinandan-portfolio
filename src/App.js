@@ -1,25 +1,34 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './Navbar';
+import Home from './Home';
+import About from './About';
+import Interest from './Interest';
+import Skills from './Skills';
+import Projects from './Projects';
+import Contact from './Contact';
+import Footer from './Footer';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div>
+			<Navbar />
+			<Home />
+			<About />
+			<Interest />
+			<Skills />
+			<Projects />
+			<Contact />
+			<Footer />
+		</div>
+  
+	);
 }
 
 export default App;
+
+//Rules of JSX
+//1. Every element should have wrapped || every element should have a parent.
+//2. Every element should have className instead of class.
+//3. Element tag should be closed.
+//4*. Every tag should be replaced by Link tag. href => to
+
