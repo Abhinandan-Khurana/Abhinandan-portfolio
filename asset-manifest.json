@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1a452b73.chunk.css",
+    "main.js": "/portfolio/static/js/main.7502e0be.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7502e0be.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
+    "static/js/2.45428dda.chunk.js": "/portfolio/static/js/2.45428dda.chunk.js",
+    "static/js/2.45428dda.chunk.js.map": "/portfolio/static/js/2.45428dda.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.1a452b73.chunk.css.map": "/portfolio/static/css/main.1a452b73.chunk.css.map",
+    "static/js/2.45428dda.chunk.js.LICENSE.txt": "/portfolio/static/js/2.45428dda.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/portfolio/static/media/6.ea6f5565.webp",
+    "static/media/7.41c9d8d8.webp": "/portfolio/static/media/7.41c9d8d8.webp",
+    "static/media/instagramclone.cf4d57da.png": "/portfolio/static/media/instagramclone.cf4d57da.png",
+    "static/media/internNOW.fbee91dd.jpg": "/portfolio/static/media/internNOW.fbee91dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76232b81.js",
+    "static/js/2.45428dda.chunk.js",
+    "static/css/main.1a452b73.chunk.css",
+    "static/js/main.7502e0be.chunk.js"
+  ]
+}
