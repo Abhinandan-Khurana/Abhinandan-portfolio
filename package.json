@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "Abhinandan-portfolio",
   "version": "0.1.0",
-  "homepage": "https://abhinandan-khurana.github.io/portfolio",
+  "homepage": "https://abhinandan-khurana.github.io/Abhinandan-portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
