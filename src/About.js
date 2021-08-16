@@ -1,6 +1,7 @@
 import React from 'react'
 import './Style.css'
 import pic from './image/7.webp'
+import pdf from "./CV/Abhinandan's Resume (2).pdf"
 const About = () => {
 	return (
 		<div>
@@ -20,7 +21,7 @@ const About = () => {
             <div className="h">
                 <div className="i"><b>I am Abhinandan and I am a <span className="lernr">Learner</span></b></div>
                 <div className="j"> I am Cyber Security Researcher @DSC - LPU || Full Stack Web Development Intern @TwoWaits || Coordinator @BLAZE-LPU || CTF Player @N00B_4rMY || B. Tech CSE 24' at @Lovely Professional University || Cyber Security Enthusiast</div>
-                <div className="k"><a href="./CV/Abhinandan's Resume (2).pdf" target="_blank"><button className="btn">Open CV</button></a></div>
+                <div className="k"><a href={pdf} target="_blank"><button className="btn">Open CV</button></a></div>
             </div>
         </div>
     </div>
