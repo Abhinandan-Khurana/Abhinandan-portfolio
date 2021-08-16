@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1a452b73.chunk.css",
-    "main.js": "/portfolio/static/js/main.7502e0be.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7502e0be.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
-    "static/js/2.45428dda.chunk.js": "/portfolio/static/js/2.45428dda.chunk.js",
-    "static/js/2.45428dda.chunk.js.map": "/portfolio/static/js/2.45428dda.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.1a452b73.chunk.css.map": "/portfolio/static/css/main.1a452b73.chunk.css.map",
-    "static/js/2.45428dda.chunk.js.LICENSE.txt": "/portfolio/static/js/2.45428dda.chunk.js.LICENSE.txt",
-    "static/media/Style.css": "/portfolio/static/media/6.ea6f5565.webp",
-    "static/media/7.41c9d8d8.webp": "/portfolio/static/media/7.41c9d8d8.webp",
-    "static/media/instagramclone.cf4d57da.png": "/portfolio/static/media/instagramclone.cf4d57da.png",
-    "static/media/internNOW.fbee91dd.jpg": "/portfolio/static/media/internNOW.fbee91dd.jpg"
+    "main.css": "/Abhinandan-portfolio/static/css/main.35365790.chunk.css",
+    "main.js": "/Abhinandan-portfolio/static/js/main.46bab1d2.chunk.js",
+    "main.js.map": "/Abhinandan-portfolio/static/js/main.46bab1d2.chunk.js.map",
+    "runtime-main.js": "/Abhinandan-portfolio/static/js/runtime-main.4fde8e32.js",
+    "runtime-main.js.map": "/Abhinandan-portfolio/static/js/runtime-main.4fde8e32.js.map",
+    "static/js/2.9a72f351.chunk.js": "/Abhinandan-portfolio/static/js/2.9a72f351.chunk.js",
+    "static/js/2.9a72f351.chunk.js.map": "/Abhinandan-portfolio/static/js/2.9a72f351.chunk.js.map",
+    "index.html": "/Abhinandan-portfolio/index.html",
+    "static/css/main.35365790.chunk.css.map": "/Abhinandan-portfolio/static/css/main.35365790.chunk.css.map",
+    "static/js/2.9a72f351.chunk.js.LICENSE.txt": "/Abhinandan-portfolio/static/js/2.9a72f351.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/Abhinandan-portfolio/static/media/6.ea6f5565.webp",
+    "static/media/7.41c9d8d8.webp": "/Abhinandan-portfolio/static/media/7.41c9d8d8.webp",
+    "static/media/instagramclone.cf4d57da.png": "/Abhinandan-portfolio/static/media/instagramclone.cf4d57da.png",
+    "static/media/internNOW.fbee91dd.jpg": "/Abhinandan-portfolio/static/media/internNOW.fbee91dd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.76232b81.js",
-    "static/js/2.45428dda.chunk.js",
-    "static/css/main.1a452b73.chunk.css",
-    "static/js/main.7502e0be.chunk.js"
+    "static/js/runtime-main.4fde8e32.js",
+    "static/js/2.9a72f351.chunk.js",
+    "static/css/main.35365790.chunk.css",
+    "static/js/main.46bab1d2.chunk.js"
   ]
 }
