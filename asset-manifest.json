@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Abhinandan-portfolio/static/css/main.35365790.chunk.css",
-    "main.js": "/Abhinandan-portfolio/static/js/main.46bab1d2.chunk.js",
-    "main.js.map": "/Abhinandan-portfolio/static/js/main.46bab1d2.chunk.js.map",
+    "main.js": "/Abhinandan-portfolio/static/js/main.dfa34670.chunk.js",
+    "main.js.map": "/Abhinandan-portfolio/static/js/main.dfa34670.chunk.js.map",
     "runtime-main.js": "/Abhinandan-portfolio/static/js/runtime-main.4fde8e32.js",
     "runtime-main.js.map": "/Abhinandan-portfolio/static/js/runtime-main.4fde8e32.js.map",
     "static/js/2.9a72f351.chunk.js": "/Abhinandan-portfolio/static/js/2.9a72f351.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.9a72f351.chunk.js.LICENSE.txt": "/Abhinandan-portfolio/static/js/2.9a72f351.chunk.js.LICENSE.txt",
     "static/media/Style.css": "/Abhinandan-portfolio/static/media/6.ea6f5565.webp",
     "static/media/7.41c9d8d8.webp": "/Abhinandan-portfolio/static/media/7.41c9d8d8.webp",
+    "static/media/Abhinandan's Resume (2).e5a61ae2.pdf": "/Abhinandan-portfolio/static/media/Abhinandan's Resume (2).e5a61ae2.pdf",
     "static/media/instagramclone.cf4d57da.png": "/Abhinandan-portfolio/static/media/instagramclone.cf4d57da.png",
     "static/media/internNOW.fbee91dd.jpg": "/Abhinandan-portfolio/static/media/internNOW.fbee91dd.jpg"
   },
@@ -19,6 +20,6 @@
     "static/js/runtime-main.4fde8e32.js",
     "static/js/2.9a72f351.chunk.js",
     "static/css/main.35365790.chunk.css",
-    "static/js/main.46bab1d2.chunk.js"
+    "static/js/main.dfa34670.chunk.js"
   ]
 }
