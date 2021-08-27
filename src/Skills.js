@@ -22,7 +22,7 @@ const Skills = () => {
                 <div className="ara2">
                     <p>I have knowledge of Kali Linux and using various hacking tools like Burp-Suite, Wireshark, Nmap/Rustscan, JohnTheRipper, Hashcat, etc. I participate in CTFs and practice labs on a variety of sites, including TryHackMe.com.
 On TryHackMe.com, I've been solving problems for over 240 days(daily).
-Level on TryHackMe right now: 13 [0xD][GOD] / in TOP 1 % ranking Leaderboard [ 1290* / 577227 ]. 
+Level on TryHackMe right now: 13 [0xD][GOD] / in TOP 1 % ranking Leaderboard [ 1290* / 616978 ]. 
 </p>
                     <p>I have acquired knowledge of Web Development through constantly updating myself with new and improved ways of doing things.</p>
                 </div>

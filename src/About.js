@@ -20,7 +20,7 @@ const About = () => {
             <div className="g"><img className="img" src={pic} /></div>
             <div className="h">
                 <div className="i"><b>I am Abhinandan and I am a <span className="lernr">Learner</span></b></div>
-                <div className="j"> I am Cyber Security Analyst Intern @IndianCyberSecuritySolutions || Cyber Security Researcher @GDSC - LPU || Full Stack Web Development Intern @TwoWaits || Coordinator @BLAZE-LPU || CTF Player @N00B_4rMY || B. Tech CSE 24' at @Lovely Professional University || Cyber Security Enthusiast</div>
+                <div className="j"> I am Cyber Security Analyst Intern @IndianCyberSecuritySolutions || Cyber Security Researcher @GDSC - LPU || Full Stack Web Development Intern @TwoWaits || Coordinator @BLAZE-LPU || Community Lead, Anchor, CTF Player @N00B_4rMY || B. Tech CSE 24' at @Lovely Professional University || Cyber Security Enthusiast</div>
                 <div className="k"><a href={pdf} target="_blank"><button className="btn">Open CV</button></a></div>
             </div>
         </div>
