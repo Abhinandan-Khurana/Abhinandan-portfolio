@@ -1,7 +1,7 @@
 import React from 'react'
 import './Style.css'
 import pic from './image/7.webp'
-import pdf from "./CV/Abhinandan's Resume (2).pdf"
+import pdf from "./CV/Abhinandan's Resume (3).pdf"
 const About = () => {
 	return (
 		<div>
